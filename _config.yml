@@ -1,0 +1,14 @@
+layout_spectrum: 0.785860248375684
+typography_spectrum: 0.17470921715721488
+color:
+  brandStrength: 0.018913181265816092
+  lightness: 0.9167519034817815
+  saturation: 0.9724741699174047
+  rhythmicContrast: 0.9430000083521008
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: immutable reflection
